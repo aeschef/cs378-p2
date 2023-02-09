@@ -1,0 +1,15 @@
+body {
+    padding-top: 10px;
+}
+
+.required_text {
+    font-family:cursive
+}
+
+.btn {
+    background-color:#afd5f0
+}
+
+.round-button{
+    border-radius: 100px;
+}
