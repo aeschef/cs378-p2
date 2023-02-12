@@ -6,10 +6,16 @@ body {
     font-family:cursive
 }
 
-.btn {
-    background-color:#afd5f0
+.order-btn {
+    background-color:#afd5f0;
+    color: #120b33;
 }
 
-.round-button{
-    border-radius: 100px;
+.plus-btn {
+    background-color:#7ad451;
+}
+
+.cancel-btn {
+    background-color: #e69934;
+    color:#120b33;
 }
